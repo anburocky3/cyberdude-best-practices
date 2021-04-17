@@ -159,7 +159,7 @@ The following snippets is purely opinationed, If you don't like any other styles
 
 ## UI Changes
 
-1. You can use <a href="https://www.monolisa.dev/" target="_blank">MonoLisa</a>, <a href="https://www.jetbrains.com/lp/mono/" target="_blank">Operator Mono</a> or <a href="https://github.com/tonsky/FiraCode/wiki/Installing" target="_blank">Fira code (Free)</a> fonts. Alternatively, you can download [fonts here](/assets/fonts/fonts.zip)
+1. You can use <a href="https://www.monolisa.dev/" target="_blank">MonoLisa</a>, <a href="https://www.jetbrains.com/lp/mono/" target="_blank">Operator Mono</a> or <a href="https://github.com/tonsky/FiraCode/wiki/Installing" target="_blank">Fira code (Free)</a> fonts. Alternatively, you can download [fonts here](https://github.com/anburocky3/cyberdude-best-practices/raw/main/assets/fonts/fonts.zip)
 2. Download external color theme <a href="https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme" target="_blank">**Palenight Theme - (Olaolu Olawuyi)**</a> from VSCode extensions.
 
 Install the font in respect to your operating system and set the font, color theme in `user/settings.json` (`ctrl + .`)
@@ -177,6 +177,11 @@ Install the font in respect to your operating system and set the font, color the
 ```
 
 ## User settings
+Inorder to work correctly, we need few extensions.
+1. <a href="https://github.com/junstyle/vscode-php-cs-fixer" target="_blank">php-cs-fixer (junstyle)</a>
+2. <a href="https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate" target="_blank">Duplicate action (mrmlnc)</a>
+3. <a href="https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui" target="_blank">Customize UI - (iocave)</a>
+
 
 ```jsonc
 {
