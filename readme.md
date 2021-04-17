@@ -8,13 +8,10 @@ These documentation is to ensure smooth, productive environment to develop apps 
 
 We use the open source tools in our projects.
 
-- [**[VSCode]** - How to install VSCode text editor?](/docs/installing-vscode.md)
-- [**[EXTENSIONS]** - Increase Productivity through Extensions](/docs/installing-extensions.md)
-
-## Guides
-
-If you like to see our guides, click here and browse around.
+1. [Install - How to install VSCode text editor?](/docs/installing-vscode.md)
+2. [Configure - Making VSCode smart!](/docs/configuring-vscode.md)
+3. [Install Extensions - Increase Productivity!](/docs/installing-extensions.md)
 
 ## License
 
-MIT (**Free Software, Hell Yeah!**), Created by [Anbuselvan Rocky](https://github.com/anburocky3)
+MIT (**Fork with care**), Created by [Anbuselvan Rocky](https://github.com/anburocky3)
