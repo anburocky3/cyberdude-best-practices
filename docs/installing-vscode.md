@@ -1,12 +1,12 @@
 # Installing VSCode Text Editor
 
-Learn how to install [VSCode Text Editor](https://code.visualstudio.com) from this documentation.
+Learn how to install <a href="https://code.visualstudio.com" target="_blank">VSCode Text Editor</a> from this documentation.
 
 ---
 
 ## Downloading the app
 
-1. Download the [setup](https://code.visualstudio.com/download) based on your Operation system.
+1. Download the <a href="https://code.visualstudio.com/download" target="_blank">setup</a> based on your Operation system.
 2. Follow the installation according to your operating system. For [Windows](#for-windows), [Linux](#for-ubuntu) based operating systems.
 
 ### For Windows
@@ -15,15 +15,16 @@ Run the download setup file and follow the onscreen installation. It is so simpl
 
 1. Run the setup file, accept the license agreement and click `Next` button.
 
-![VSCode Setup Dialog](/images/installing-vscode/1.png)
+   ![VSCode Setup Dialog](/images/installing-vscode/1.png)
 
 2. Check all Checkbox and click `Next`.
 
-![VSCode Setup Dialog](/images/installing-vscode/2.png)
+   ![VSCode Setup Dialog](/images/installing-vscode/2.png)
 
-> Don't forgot to check the all occurance of `Open with Code` & `Add to PATH`.
+   > Don't forgot to check the all occurance of `Open with Code` & `Add to PATH`.
 
 3. Click `Install` to install it in your system.
+
    ![VSCode Setup Dialog](/images/installing-vscode/3.png)
 
 4. Click `Finish`. You can successfully installed the vscode text editor.
@@ -35,8 +36,8 @@ Run the download setup file and follow the onscreen installation. It is so simpl
 You can download the vscode application directly via `terminal` through [snap packages](https://snapcraft.io/code).
 Just use the following command to install vscode in Linux based Operating systems.
 
-```bash
-$ sudo snap install code --classic
+```console
+sudo snap install code --classic
 ```
 
-Once, you have successfully installed, you can start installing the required extensions.
+Once, you have successfully installed, you can [start installing the required extensions](/docs/installing-extensions.md).
